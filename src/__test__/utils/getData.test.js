@@ -1,7 +1,7 @@
 /* eslint-disable arrow-parens */
 import getData from '../../utils/getData';
 
-describe('Fetch API', () => {
+describe('Fetch API Test', () => {
   beforeEach(() => {
     fetch.resetMocks();
   });
